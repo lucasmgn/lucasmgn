@@ -4,7 +4,7 @@
  - Brinco o Java Script criando sites e os deixo estiloso com o CSS 💻🤸‍♂️
  - Correndo atrás de conhecimento 📚🏃‍♂️
  - Louco por séries e filmes 🎥
- - Amo frio 🧊
+ 
 <!--
 **lucasmgn/lucasmgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
