@@ -5,7 +5,6 @@
  - Correndo atrás de conhecimento 📚🏃‍♂️
  - Louco por séries e filmes 🎥
  - Amo frio 🧊
-<h2> Lucas</h2>
 <!--
 **lucasmgn/lucasmgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
