@@ -1,7 +1,7 @@
 ### Iai galera!! Meu nome é Lucas Magno 👨‍💻
 
- - Faço agluns projetos em C 🎓
- - Brinco o Java Script criando sites e os deixo estiloso com o CSS 💻🤸‍♂️
+ - Faço alguns projetos em C, Java Script e CSS 💻🤸‍🎓
+ - Estudando React 🕵️‍♂️ 
  - Correndo atrás de conhecimento 📚🏃‍♂️
  - Louco por séries e filmes 🎥
  
