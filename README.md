@@ -1,4 +1,4 @@
-## Iai galera!! Meu nome é Lucas Magno 
+## Iai galera!! Meu nome é Lucas Magno 👩‍🚀 
 <div>
     <a href="https://github.com/lucasmgn">
         <img height="180em"
