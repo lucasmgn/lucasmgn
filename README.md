@@ -1,4 +1,12 @@
 ## Hi guys!! My name is Lucas 👩‍🚀 
+
+Estudante de Analise e Desenvolvimento de Sistemas (Unifacs)
+
+Nasci na cidade de Salvador-Ba, onde até meus 14 anos morei, depois mudei para a cidade de Aracaju-Se e é onde tenho vontade de morar até hoje.
+Sou muito comunicativo, proativo e curioso, como eu estudo a maior parte do meu tempo, durante aos semana e nos fins de semana, gosto de me entreter com jogos, livros e séries (Sou bem de casa), sou uma pessoa muito simples, não preciso de muito para ser feliz, gosto de estar com meus amigos e minha familia que é o mais importante.
+
+
+
 <div>
     <a href="https://github.com/lucasmgn">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmgn&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgn&layout=compact&langs_count=7&theme=chartreuse-dark"/>
