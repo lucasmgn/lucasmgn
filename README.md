@@ -1,9 +1,9 @@
 ## Hi guys!! My name is Lucas 👩‍🚀 
 
-Estudante de Analise e Desenvolvimento de Sistemas (Unifacs)
+Systems Analysis and Development Student (Unifacs) - 3rd period
 
-Nasci na cidade de Salvador-Ba, onde até meus 14 anos morei, depois mudei para a cidade de Aracaju-Se e é onde tenho vontade de morar até hoje.
-Sou muito comunicativo, proativo e curioso, como eu estudo a maior parte do meu tempo, durante aos semana e nos fins de semana, gosto de me entreter com jogos, livros e séries (Sou bem de casa), sou uma pessoa muito simples, não preciso de muito para ser feliz, gosto de estar com meus amigos e minha familia que é o mais importante.
+I was born in the city of Salvador-Ba, where I lived until I was 14 years old, then I moved to the city of Aracaju-Se and it is where I want to live to this day.
+I am very communicative, proactive and curious, as I study most of my time during the week and on weekends, I need to be distracted and to entertain myself I like games, books and series (I am well at home), I am a very simple person, I don't need much to be happy, I like to be with my friends and my family, which is the most important thing.
 
 
 
