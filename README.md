@@ -2,8 +2,7 @@
 
 Systems Analysis and Development Student (Unifacs) - 3rd period
 
-I was born in the city of Salvador-Ba, where I lived until I was 14 years old, then I moved to the city of Aracaju-Se and it is where I want to live to this day.
-I am very communicative, proactive and curious, as I study most of my time during the week and on weekends, I need to be distracted and to entertain myself I like games, books and series (I am well at home), I am a very simple person, I don't need much to be happy, I like to be with my friends and my family, which is the most important thing.
+Olá meu nome é Lucas Magno, tenho 20 anos e sou estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas na modalidade EAD, me foco principal é a linguagem Java, faço cursos e estudo por meio de livros e cursos que acho na internet, conheço algumas outras tecnologias como JavaScript e a biblioteca react, conheço também o Mysql, atualmente estou estudando JPA e aos poucos me aperfeiçoando.
 
 <br>
 
