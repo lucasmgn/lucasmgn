@@ -1,44 +1,42 @@
-## Hi guys!! My name is Lucas 👩‍🚀 
+# Hi there 👋, My name is Lucas Magno
 
-Systems Analysis and Development Student (Unifacs) - 3rd period
+<img width="100%" src="https://live.staticflickr.com/65535/52115875753_38288e837a_z.jpg" alt="my banner">
 
-Olá meu nome é Lucas Magno, tenho 20 anos e sou estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas na modalidade EAD, me foco principal é a linguagem Java, faço cursos e estudo por meio de livros e cursos que acho na internet, conheço algumas outras tecnologias como JavaScript e a biblioteca react, conheço também o Mysql, atualmente estou estudando JPA e aos poucos me aperfeiçoando.
+## 💫 Liitle Bit More About Me
+<p>🔭 I'm currently working on Wantfood</p>
+<p>🌱 I'm currently learning Spring REST</p>
+<p>📫 How to reach me? lucasmagno695@gmail.com</p>
+<p>Know about my experiences <a href="https://www.linkedin.com/in/lucas-magno-454aa8204/">here</a></p>
 
-<br>
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+</p>
 
-<div>
-    <a href="https://github.com/lucasmgn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmgn&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgn&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
- <div style="display: inline_block"><br>
-      <img align="center" alt="Lucas-HTML" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Lucas-CSS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Lucas-Js" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Lucas-React" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Lucas-C" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-     <img align="center" alt="Lucas-C" height="30" width="40"
-     src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"
-</div>
-    
-##
-    
-    
-<div>
-    <a href="https://www.instagram.com/lucas_magno26/" target="_blank"><img
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            target="_blank"></a>
-    <a href="mailto:lucasmagno695@gmail.com"><img
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucas-magno-454aa8204/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
-    
-</div>
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-magno-454aa8204/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/https://www.instagram.com/lucas_magno26/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
 
- 
+## 🌟 Github Badges
+<p>
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
+</p>
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=lucasmgn">
+</p>
+
+## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=lucasmgn&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgn&layout=compact"><p>
