@@ -4,6 +4,7 @@
 
 Meu nome é Lucas Magno, tenho 20 ano e resido na cidade de Salvador, sou estudante de Análise e Desenvolvimento de Sistemas (EAD), estou no terceiro semestre. Quero ser desenvolvedor back-end, ir me aprimorando até me tornar um bom sênior, atualmente estudo a linguagem Java e desenvolvo alguns projetos com ela.
 Tenho Conhecimento em JPA, MySQL, Junit e estou me aperfeiçoando no Spring REST.
+Estou a procura de um estágio, dá uma olhada em meus projetos aqui no GitHub!!
 
 
 ## 💫 Liitle Bit More About Me
