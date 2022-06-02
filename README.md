@@ -2,10 +2,14 @@
 
 <img width="100%" src="https://live.staticflickr.com/65535/52115875753_38288e837a_z.jpg" alt="my banner">
 
+Meu nome é Lucas Magno, tenho 20 ano e resido na cidade de Salvador, sou estudante de Análise e Desenvolvimento de Sistemas (EAD), estou no terceiro semestre. Quero ser desenvolvedor back-end, ir me aprimorando até me tornar um bom sênior, atualmente estudo a linguagem Java e desenvolvo alguns projetos com ela.
+Tenho Conhecimento em JPA, MySQL, Junit e estou me aperfeiçoando no Spring REST.
+
+
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Wantfood</p>
 <p>🌱 I'm currently learning Spring REST</p>
-<p>📫 How to reach me? lucasmagno695@gmail.com</p>
+<p>📫 How to reach me? lucasmagno695@gmail.com, ou pelo Linkedin no link abaixo.</p>
 <p>Know about my experiences <a href="https://www.linkedin.com/in/lucas-magno-454aa8204/">here</a></p>
 
 ## 💻 Skills
@@ -36,7 +40,5 @@
 </p>
 
 ## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=lucasmgn&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgn&layout=compact"><p>
