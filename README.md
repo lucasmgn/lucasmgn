@@ -29,13 +29,6 @@ Estou a procura de um estágio, dá uma olhada em meus projetos aqui no GitHub!!
 <a href="https://www.instagram.com/lucas_magno26/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmgn&layout=compact"><p>
