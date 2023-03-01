@@ -4,7 +4,7 @@ Meu nome é Lucas Magno, tenho 21 anos, sou estudante de Análise e Desenvolvime
 
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on <a href="https://compass.uol/en/home/" target="_blank"> CompassUol </a></p>
+<p>🔭 I'm currently working at <a href="https://compass.uol/en/home/" target="_blank"> CompassUol </a></p>
 <p>📫 How to reach me? lucasmagno695@gmail.com, ou pelo Linkedin no link abaixo.</p>
 <p>Know about my experiences <a href="https://www.linkedin.com/in/lucas-magno-454aa8204/">here</a></p>
 
