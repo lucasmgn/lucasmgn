@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Meu nome é Lucas Magno, tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas, estou no quinto semestre. Atuo como desenvolvedor back-end na <a href="https://compass.uol/en/home/" target="_blank"> CompassUol </a>, trabalho no projeto <a href="https://www.vivo.com.br/para-voce?genParam=ctrm" target="_blank"> Vivo </a> desenvolvendo microsserviços com Spring, API's Gateway, Kafka e outras tecnologias.
+Meu nome é Lucas Magno, tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas, estou no quinto semestre. Atuo como desenvolvedor back-end na <a href="https://compass.uol/en/home/" target="_blank"> CompassUol </a>.
 
 
 ## 💫 Liitle Bit More About Me
