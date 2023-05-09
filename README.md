@@ -25,7 +25,7 @@ Meu nome é Lucas Magno, tenho 21 anos, sou estudante de Análise e Desenvolvime
 
 ## 👥 Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/lucas-magno-454aa8204/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-magno-454aa8204"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 📊 Github Status
