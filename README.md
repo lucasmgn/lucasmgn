@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Meu nome é Lucas Magno, tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas. Atuo como desenvolvedor back-end na <a href="https://compass.uol/en/home/" target="_blank"> CompassUol </a>.
+My name is Lucas Magno, I'm 21 years old, I have a degree in Systems Analysis and Development. I work with Microservices Architecture at<a href="https://compass.uol/en/home/" target="_blank"> CompassUol </a>.
 
 
 ## 💫 Liitle Bit More About Me
